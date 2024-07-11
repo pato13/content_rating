@@ -27,7 +27,7 @@
        <>
          <h1>Text Content Rating</h1>
          <div className='content-rating'>
-           <p>Text</p>
+           <p>Learning React!!!</p>
            <div className='rating-buttons'>
              <button className="like-button" onClick={this.state.handleLike}>
                Like ({this.state.likes})
